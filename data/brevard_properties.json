@@ -1,0 +1,698 @@
+[
+  {
+    "case_number": "05-2018-CA-034906-XXXX-XX",
+    "plaintiff": "US BANK NA",
+    "defendant": "ANNMARIE BALCH",
+    "auction_date": "2026-01-07",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2023-CA-028847-XXXX-XX",
+    "plaintiff": "LAKEVIEW",
+    "defendant": "C L HENDERSON",
+    "auction_date": "2026-01-07",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-012193-XXCA-BC",
+    "plaintiff": "UNITED WHOLESALE",
+    "defendant": "M WILLIAMS",
+    "auction_date": "2026-01-07",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-013801-XXCA-BC",
+    "plaintiff": "LAKEVIEW LOAN",
+    "defendant": "JAMES PUTIRA",
+    "auction_date": "2026-01-07",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-025470-XXCA-BC",
+    "plaintiff": "CARLOS SUD",
+    "defendant": "METRO EASTWEST",
+    "auction_date": "2026-01-07",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-040529-XXCA-BC",
+    "plaintiff": "FEDERAL HOME",
+    "defendant": "UNKNOWN HEIRS",
+    "auction_date": "2026-01-07",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-047626-XXCA-BC",
+    "plaintiff": "US BANK",
+    "defendant": "ELEONORE VAUGHAN",
+    "auction_date": "2026-01-07",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-049701-XXCA-BC",
+    "plaintiff": "US BANK",
+    "defendant": "RED KEY 38",
+    "auction_date": "2026-01-07",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-055354-XXCA-BC",
+    "plaintiff": "FINANCE AMERICA",
+    "defendant": "G LAMBERT",
+    "auction_date": "2026-01-07",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CC-035201-XXCC-BC",
+    "plaintiff": "JAMES LANDING",
+    "defendant": "MELVIN EZELL",
+    "auction_date": "2026-01-07",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CA-010717-XXCA-BC",
+    "plaintiff": "A CHARLESWELL",
+    "defendant": "D GONZALEZ",
+    "auction_date": "2026-01-07",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CA-012394-XXCA-BC",
+    "plaintiff": "US BANK TRUST",
+    "defendant": "KAREN BISHOP",
+    "auction_date": "2026-01-07",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CA-015620-XXCA-BC",
+    "plaintiff": "CARRINGTON",
+    "defendant": "CYNTHIA M SYMON",
+    "auction_date": "2026-01-07",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CA-019775-XXCA-BC",
+    "plaintiff": "OCEAN LANDING",
+    "defendant": "KULDEEP PALL",
+    "auction_date": "2026-01-07",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CA-020385-XXCA-BC",
+    "plaintiff": "BANK NY MELLON",
+    "defendant": "R PALUMBO",
+    "auction_date": "2026-01-07",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CA-024328-XXCA-BC",
+    "plaintiff": "PLANET HOME",
+    "defendant": "JUSTIN L GIBBS",
+    "auction_date": "2026-01-07",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CA-024851-XXCA-BC",
+    "plaintiff": "FREEDOM MORTGAGE",
+    "defendant": "S ZAGOFSKY",
+    "auction_date": "2026-01-07",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CA-024869-XXCA-BC",
+    "plaintiff": "WILMINGTON TRST",
+    "defendant": "ANGELA HOLD",
+    "auction_date": "2026-01-07",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CA-025470-XXCA-BC",
+    "plaintiff": "WILMINGTON SAV",
+    "defendant": "M R DOWLING",
+    "auction_date": "2026-01-07",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CC-022936-XXCC-BC",
+    "plaintiff": "CENTRAL VIERA",
+    "defendant": "G MCLOUGHLIN",
+    "auction_date": "2026-01-07",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2018-CA-043854-XXXX-XX",
+    "plaintiff": "PNC BANK",
+    "defendant": "KEVIN I NAZARIO",
+    "auction_date": "2026-01-14",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2023-CA-059140-XXXX-XX",
+    "plaintiff": "FREEDOM",
+    "defendant": "JEFFREY LEE ARAUJO",
+    "auction_date": "2026-01-14",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-023934-XXCA-BC",
+    "plaintiff": "DEUTSCHE BANK",
+    "defendant": "P WILLIAMS",
+    "auction_date": "2026-01-14",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-027728-XXCA-BC",
+    "plaintiff": "NATIONSTAR",
+    "defendant": "C LIGHTBOURN",
+    "auction_date": "2026-01-14",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-033434-XXCA-BC",
+    "plaintiff": "AMERIHOME",
+    "defendant": "CHRISTINE RIVERA",
+    "auction_date": "2026-01-14",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-033754-XXCA-BC",
+    "plaintiff": "SWBC MORTGAGE",
+    "defendant": "KEISHA RANKIN",
+    "auction_date": "2026-01-14",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-036258-XXCA-BC",
+    "plaintiff": "NEWREZ LLC",
+    "defendant": "SARAH N MAESTRE",
+    "auction_date": "2026-01-14",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-037111-XXCA-BC",
+    "plaintiff": "NATIONSTAR",
+    "defendant": "GLEN BRANHAM",
+    "auction_date": "2026-01-14",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-039767-XXCA-BC",
+    "plaintiff": "BUILDERS",
+    "defendant": "PALLADIO DEVELOP",
+    "auction_date": "2026-01-14",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-046839-XXCA-BC",
+    "plaintiff": "FREEDOM MORTGAGE",
+    "defendant": "C COBB",
+    "auction_date": "2026-01-14",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-048107-XXCA-BC",
+    "plaintiff": "DEUTSCHE",
+    "defendant": "RICHARD GILLESPIE",
+    "auction_date": "2026-01-14",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-049699-XXCA-BC",
+    "plaintiff": "WILMINGTON",
+    "defendant": "JAMES RAY",
+    "auction_date": "2026-01-14",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-053818-XXCA-BC",
+    "plaintiff": "STUART R KALB",
+    "defendant": "GO ECO HOMES",
+    "auction_date": "2026-01-14",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-056239-XXCA-BC",
+    "plaintiff": "US BANK NA",
+    "defendant": "REJOHNA K KUHNS",
+    "auction_date": "2026-01-14",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-057995-XXCA-BC",
+    "plaintiff": "NEWREZ LLC",
+    "defendant": "MARK CONKLIN",
+    "auction_date": "2026-01-14",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-058208-XXCA-BC",
+    "plaintiff": "NATL REC",
+    "defendant": "LYNETTE MENSAH",
+    "auction_date": "2026-01-14",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-061006-XXCA-BC",
+    "plaintiff": "NEWREZ LLC",
+    "defendant": "KAREN ROBINSON",
+    "auction_date": "2026-01-14",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CC-018168-XXCC-BC",
+    "plaintiff": "DIANA SHORES",
+    "defendant": "BETTY W HOLDER",
+    "auction_date": "2026-01-14",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CA-014469-XXCA-BC",
+    "plaintiff": "NATIONSTAR MTGE",
+    "defendant": "NILKA NUNEZ",
+    "auction_date": "2026-01-14",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CA-017810-XXCA-BC",
+    "plaintiff": "FREEDOM MORTGAGE",
+    "defendant": "D A CHAPO",
+    "auction_date": "2026-01-14",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CA-028313-XXCA-BC",
+    "plaintiff": "W D'ANGELO",
+    "defendant": "M A SARACCO",
+    "auction_date": "2026-01-14",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CA-031438-XXCA-BC",
+    "plaintiff": "UNION HOME",
+    "defendant": "TAM T NGO",
+    "auction_date": "2026-01-14",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CA-035093-XXCA-BC",
+    "plaintiff": "COMM CREDIT UNION",
+    "defendant": "DUNLEAVY",
+    "auction_date": "2026-01-14",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CC-017098-XXCC-BC",
+    "plaintiff": "NORTHFIELD",
+    "defendant": "SHANNON K YOUNG",
+    "auction_date": "2026-01-14",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2022-CA-034421-XXXX-XX",
+    "plaintiff": "JPMORGAN",
+    "defendant": "CHRIS NETRAM",
+    "auction_date": "2026-01-26",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2016-CA-010468-XXXX-XX",
+    "plaintiff": "JPMORGAN",
+    "defendant": "ALBERT N KISH",
+    "auction_date": "2026-01-28",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2021-CA-049948-XXXX-XX",
+    "plaintiff": "BANK NEW YORK",
+    "defendant": "RUTH NEWTON",
+    "auction_date": "2026-01-28",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2022-CA-038736-XXXX-XX",
+    "plaintiff": "US BANK",
+    "defendant": "A MELENDEZ",
+    "auction_date": "2026-01-28",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2023-CC-052289-XXXX-XX",
+    "plaintiff": "VISTA OAKS",
+    "defendant": "RODNEY B MEDLEY",
+    "auction_date": "2026-01-28",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-031916-XXCA-BC",
+    "plaintiff": "NATIONSTAR",
+    "defendant": "JENNIFER GRAFING",
+    "auction_date": "2026-01-28",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-039789-XXCA-BC",
+    "plaintiff": "NEW RESIDENTIAL",
+    "defendant": "J PETERS",
+    "auction_date": "2026-01-28",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-041248-XXCA-BC",
+    "plaintiff": "LAKEVIEW LOAN",
+    "defendant": "TODD H LYONS",
+    "auction_date": "2026-01-28",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-042824-XXCA-BC",
+    "plaintiff": "MORTGAGE ASSETS",
+    "defendant": "W SCHRANK",
+    "auction_date": "2026-01-28",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-043460-XXCA-BC",
+    "plaintiff": "MORTGAGE",
+    "defendant": "CHERYL MORRISON",
+    "auction_date": "2026-01-28",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-044452-XXCA-BC",
+    "plaintiff": "EDISTO LOAN",
+    "defendant": "900 MIRAMAR LLC",
+    "auction_date": "2026-01-28",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-050404-XXCA-BC",
+    "plaintiff": "FINANCE",
+    "defendant": "BRUCE GARDNER",
+    "auction_date": "2026-01-28",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-051000-XXCA-BC",
+    "plaintiff": "HALLMARK HOME",
+    "defendant": "W GOLDEN",
+    "auction_date": "2026-01-28",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-052446-XXCA-BC",
+    "plaintiff": "DATA MORTGAGE",
+    "defendant": "KIERRA MURPHY",
+    "auction_date": "2026-01-28",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CC-031814-XXCC-BC",
+    "plaintiff": "TOWN HOMES",
+    "defendant": "BENJAMIN WALROTH",
+    "auction_date": "2026-01-28",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CA-010345-XXCA-BC",
+    "plaintiff": "US BANK",
+    "defendant": "RED KEY 38 INC",
+    "auction_date": "2026-01-28",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CA-015724-XXCA-BC",
+    "plaintiff": "VILLAGE CAPITAL",
+    "defendant": "M PAYNE",
+    "auction_date": "2026-01-28",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CA-017117-XXCA-BC",
+    "plaintiff": "NATIONSTAR",
+    "defendant": "MICHAEL J CONN",
+    "auction_date": "2026-01-28",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CA-029490-XXCA-BC",
+    "plaintiff": "B-MUSED",
+    "defendant": "EDWARD J MADEJCZYK",
+    "auction_date": "2026-01-28",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CA-033176-XXCA-BC",
+    "plaintiff": "PENNYMAC",
+    "defendant": "INDIETROPIC LLC",
+    "auction_date": "2026-01-28",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2022-CA-044768-XXXX-XX",
+    "plaintiff": "REVERSE MORTG",
+    "defendant": "R W CARLSON",
+    "auction_date": "2026-02-04",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2023-CA-031512-XXXX-XX",
+    "plaintiff": "MORTGAGE ASSETS",
+    "defendant": "V LESTER ES",
+    "auction_date": "2026-02-04",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-038977-XXCA-BC",
+    "plaintiff": "LAKEVIEW LOAN",
+    "defendant": "ANTHONY DAVIS",
+    "auction_date": "2026-02-04",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-044448-XXCA-BC",
+    "plaintiff": "ROCKET MORTGAGE",
+    "defendant": "CAROLYN NYE",
+    "auction_date": "2026-02-04",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CA-017012-XXCA-BC",
+    "plaintiff": "FREEDOM MORTGAGE",
+    "defendant": "A G AFAR",
+    "auction_date": "2026-02-04",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CA-017027-XXCA-BC",
+    "plaintiff": "RED FLOWER CAPITAL",
+    "defendant": "PALLADIO",
+    "auction_date": "2026-02-04",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-031559-XXCA-BC",
+    "plaintiff": "CITIBANK",
+    "defendant": "IVONNE RAMOS",
+    "auction_date": "2026-02-11",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-046862-XXCA-BC",
+    "plaintiff": "US BANK TRUST",
+    "defendant": "K ROBINSON",
+    "auction_date": "2026-02-11",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CA-024863-XXCA-BC",
+    "plaintiff": "FREEDOM MORT",
+    "defendant": "A G HAWTHORNE",
+    "auction_date": "2026-02-11",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CA-029900-XXCA-BC",
+    "plaintiff": "SPACE COAST",
+    "defendant": "MARK PARENTE",
+    "auction_date": "2026-02-11",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CC-036058-XXCC-BC",
+    "plaintiff": "PALMAS",
+    "defendant": "JENNIFER B MAUTZ",
+    "auction_date": "2026-02-11",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-014947-XXCA-BC",
+    "plaintiff": "LAKEVIEW LOAN",
+    "defendant": "ERNEST HIVELY",
+    "auction_date": "2026-02-18",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-045611-XXCA-BC",
+    "plaintiff": "ARGOLICA LLC",
+    "defendant": "JOAN K LITTLE",
+    "auction_date": "2026-02-18",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2019-CA-053670-XXXX-XX",
+    "plaintiff": "NATIONSTAR",
+    "defendant": "S C DEVINNEY",
+    "auction_date": "2026-02-25",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-054877-XXCA-BC",
+    "plaintiff": "WELLS FARGO BANK",
+    "defendant": "T COSTA",
+    "auction_date": "2026-02-25",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-058864-XXCA-BC",
+    "plaintiff": "PLANET HOME",
+    "defendant": "M BOLANDER",
+    "auction_date": "2026-02-25",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CA-029916-XXCA-BC",
+    "plaintiff": "BANK NY MELLON",
+    "defendant": "K L PITTS",
+    "auction_date": "2026-02-25",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CA-017352-XXCA-BC",
+    "plaintiff": "K CHERA",
+    "defendant": "CARLA RIVERA",
+    "auction_date": "2026-03-04",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CA-017191-XXCA-BC",
+    "plaintiff": "CITIZENS BANK",
+    "defendant": "G W DAVIS",
+    "auction_date": "2026-03-11",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CA-021591-XXCA-BC",
+    "plaintiff": "FREEDOM MORT",
+    "defendant": "JOHN ANDERSON",
+    "auction_date": "2026-03-11",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2024-CA-043660-XXCA-BC",
+    "plaintiff": "PENNYMAC LOAN",
+    "defendant": "S HARRISON",
+    "auction_date": "2026-04-08",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CA-044183-XXCA-BC",
+    "plaintiff": "US BANK",
+    "defendant": "DONNA L COOPER",
+    "auction_date": "2026-04-15",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  },
+  {
+    "case_number": "05-2025-CA-014368-XXCA-BC",
+    "plaintiff": "FEDERAL HOME",
+    "defendant": "JOHN T HUNT",
+    "auction_date": "2026-04-29",
+    "auction_type": "Foreclosure",
+    "status": "Scheduled"
+  }
+]
