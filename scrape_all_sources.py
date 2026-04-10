@@ -16,7 +16,7 @@ def scrape_brevard_clerk():
     """Scrape official Brevard Clerk foreclosure list"""
     print("📋 Scraping Brevard Clerk foreclosure list...")
     
-    url = "http://vweb2.brevardclerk.us/Foreclosures/foreclosure_sales.html"
+    url = "http://www.brevardclerk.us/Foreclosures/foreclosure_sales.html"
     response = requests.get(url)
     
     # Parse HTML table for case numbers, names, dates
