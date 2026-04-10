@@ -6,7 +6,7 @@ from datetime import datetime
 
 def scrape_brevard_clerk():
     print("📋 Scraping Brevard Clerk...")
-    response = requests.get('http://vweb2.brevardclerk.us/Foreclosures/foreclosure_sales.html', timeout=30)
+    response = requests.get('http://www.brevardclerk.us/Foreclosures/foreclosure_sales.html', timeout=30)
     html = response.text
     properties = []
     rows = re.findall(r'<tr>.*?</tr>', html, re.DOTALL)
